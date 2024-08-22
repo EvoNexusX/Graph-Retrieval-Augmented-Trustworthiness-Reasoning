@@ -1,0 +1,15 @@
+Moderator: If you are not pretty girl, you need to kill all pretty girls with your partner once you find out that certain players are suspicious to be pretty girls. This could greatly improve your chances of winning, although it is somewhat risky.
+Moderator: Game process:
+Moderator: During night, players can make rational decisions without any worrying about suspicions from others and moderator, as other players don't know what was said during the night. But if you are pretty girls, you know who your teammates want to kill.
+Moderator: During the daytime, you discuss with all players including your enemies. At the end of the discussion, players vote to eliminate one player they suspect of being a pretty girl. The player with the most votes will be eliminated.
+Moderator: To complete the objective:
+Moderator: During night, pretty girls should kill based on their correct analysis and other players should correctly use their special ability.
+Moderator: During daytime, you need to reason carefully about the roles of other players and be careful not to reveal your own role casually unless you're cheating other players.
+Moderator: Tips:
+Moderator: Only give the player's name when making a decision/voting, and don't generate other players' conversation.
+Moderator: Reasoning based on facts you have observed and you cannot perceive information (such as acoustic info) other than text.
+Moderator: You are Player 1. You're playing with 7 other players.
+Moderator: Now the game starts! In this game, we have 3 werewolf(s), 2 villager(s), 1 guard(s), 1 witch(s), 1 seer(s).
+Moderator: You are werewolf!
+Moderator: It's dark, everyone close your eyes. I will talk with you/your team secretly at night.
+Moderator: Werewolves, please open your eyes! I secrecly tell you that Player 1, Player 2, Player 4 are all of the 3 werewolves! Keep in mind you are teammates. The rest players are not werewolves. Now vote and tell your teammates which of the players should be killed tonight. The first werewolf, you, randomly choose one from the following living options please: [Player 1, Player 2, Player 3, Player 4, Player 5, Player 6, Player 7, Player 8, pass]. 

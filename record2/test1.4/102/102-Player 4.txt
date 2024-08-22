@@ -1,0 +1,5 @@
+Player 2 is inferred to be my enemy. My level of trust in him is 0.345 and his level of threat to me is 0.655.  
+Player 4 is inferred to be my enemy. My level of trust in him is 0.310 and his level of threat to me is 0.690.  
+Player 5 is inferred to be my teammate. My level of trust in him is 0.762 and his level of threat to me is 0.238.  
+Player 1 is inferred to be my teammate. My level of trust in him is 0.698 and his level of threat to me is 0.302.  
+Player 8 is inferred to be my teammate.

@@ -1,0 +1,14 @@
+
+The below are my inference of the other players:
+I am Player 1, the villager. I trust myself very much.
+Player 3 is inferred to be a good people, my teammate. My level of trust in him is 1.0
+Player 2 is inferred to be a good people, my teammate. My level of trust in him is 0.8
+Player 4 is inferred to be a good people, my teammate. My level of trust in him is 0.8
+Player 6 is inferred to be a good people, my teammate. My level of trust in him is 0.8
+Player 8 is inferred to be a good people, my teammate. My level of trust in him is 0.7
+Player 7 is inferred to be a good people, my teammate. My level of trust in him is 0.6
+
+
+['Player 5']'s identities are still unsure, I cannot say any information about them.
+The greater the level of trust, the more I should protect him, and the greater the level of threat, the more I should eliminate him.
+In these players, ['Player 3', 'Player 2', 'Player 4'] are more trustworthy to me. [] are more threatening to me, and I need to be very aware of them.

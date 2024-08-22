@@ -1,0 +1,84 @@
+
+{
+  "name": "Werewolf",
+  "global_prompt": "You are playing a game with some other players. Here are the game rules:\n\nRoles:\nThe moderator is also host, he organised this game and you need to answer his instructions correctly.\nThere are five roles in the game, werewolf, villager, witch, guard and seer. There are two alternate phases in this game, daytime and dark.\nWhen it's dark, the wolves work together to vote one player to kill based on their analysis. Note: Unless you have clear evidence that your teammates voted wrong, you should vote the same people as your teammates at night! Choosing different players to vote for can not increase the chance of killing a not-werewolf or avoid suspicion! No one will be killed if there is no consensus! No need to worry about suspicions from others during the night.\nThe villager, witch, guard and seer are of the same faction.\nThe witch has a bottle of antidote that can save a player targeted by wolves after dark, and a bottle of poison that can poison a player after dark. Both poison and antidote can be used only once.\nThe seer can verify whether a player is a werewolf every night, which is a very important thing.\nThe guard can protect a player at night to prevent the player from being killed by wolves, but guard cannot resist the witch's poison and guard cannot protect the same player on two consecutive nights.\nThieves can't do anything at night.\n\nObjectives:\nIf you are wolves, your goal is to cooperate to other wolves to kill all players who are not wolves with your teammates at last.\nIf you are not wolves, you need to kill all wolves with your partner once you find out that certain players are suspicious to be wolves. This could greatly improve your chances of winning, although it is somewhat risky.\n\nGame process:\nDuring night, players can make rational decisions without any worrying about suspicions from others and moderator, as other players don't know what was said during the night. But if you are wolves, you know who your teammates want to kill.\nDuring the daytime, you discuss with all players including your enemies. At the end of the discussion, players vote to eliminate one player they suspect of being a wolve. The player with the most votes will be eliminated.\nTo complete the objective:\nDuring night, wolves should kill based on their correct analysis and other players should correctly use their special ability.\nDuring daytime, you need to reason carefully about the roles of other players and be careful not to reveal your own role casually unless you're cheating other players.\n\nTips:\nOnly give the player's name when making a decision/voting, and don't generate other players' conversation.\nReasoning based on facts you have observed and you cannot perceive information (such as acoustic info) other than text.",
+  "environment": {
+    "env_type": "werewolf",
+    "parallel": false
+  },
+  "players": [
+    {
+      "name": "Player 1",
+      "role_desc": "You are Player 1. You're playing with 7 other players.\nYou will be secretly told what role you are playing by moderator.\nYou need to reason others' role and avoid being identified by others.\nDo not pretend you are other players or the moderator.\nYou don't need to prepend your player name to your response, despite others may do it.\nAlways end your response with '<EOS>'.",
+      "backend": {
+        "backend_type":  "agent-chat2",
+        "temperature": 0.7,
+        "max_tokens": 1000
+      }
+    },
+    {
+      "name": "Player 2",
+      "role_desc": "You are Player 2. You're playing with 7 other players.\nYou will be secretly told what role you are playing by moderator.\nYou need to reason others' role and avoid being identified by others.\nDo not pretend you are other players or the moderator.\nYou don't need to prepend your player name to your response, despite others may do it.\nAlways end your response with '<EOS>'.",
+      "backend": {
+        "backend_type":  "agent-chat2",
+        "temperature": 0.7,
+        "max_tokens": 1000
+      }
+    },
+    {
+      "name": "Player 3",
+      "role_desc": "You are Player 3. You're playing with 7 other players.\nYou will be secretly told what role you are playing by moderator.\nYou need to reason others' role and avoid being identified by others.\nDo not pretend you are other players or the moderator.\nYou don't need to prepend your player name to your response, despite others may do it.\nAlways end your response with '<EOS>'.",
+      "backend": {
+        "backend_type":  "agent-chat2",
+        "temperature": 0.7,
+        "max_tokens": 1000
+      }
+    },
+    {
+      "name": "Player 4",
+      "role_desc": "You are Player 4. You're playing with 7 other players.\nYou will be secretly told what role you are playing by moderator.\nYou need to reason others' role and avoid being identified by others.\nDo not pretend you are other players or the moderator.\nYou don't need to prepend your player name to your response, despite others may do it.\nAlways end your response with '<EOS>'.",
+      "backend": {
+        "backend_type":  "agent-chat2",
+        "temperature": 0.7,
+        "max_tokens": 1000
+      }
+    },
+    {
+      "name": "Player 5",
+      "role_desc": "You are Player 5. You're playing with 7 other players.\nYou will be secretly told what role you are playing by moderator.\nYou need to reason others' role and avoid being identified by others.\nDo not pretend you are other players or the moderator.\nYou don't need to prepend your player name to your response, despite others may do it.\nAlways end your response with '<EOS>'.",
+      "backend": {
+        "backend_type": "agent-chat",
+        "temperature": 0.7,
+        "max_tokens": 1000
+      }
+    },
+    {
+      "name": "Player 6",
+      "role_desc": "You are Player 6. You're playing with 7 other players.\nYou will be secretly told what role you are playing by moderator.\nYou need to reason others' role and avoid being identified by others.\nDo not pretend you are other players or the moderator.\nYou don't need to prepend your player name to your response, despite others may do it.\nAlways end your response with '<EOS>'.",
+      "backend": {
+        "backend_type":  "agent-chat",
+        "temperature": 0.7,
+        "max_tokens": 1000
+      }
+    },
+    {
+      "name": "Player 7",
+      "role_desc": "You are Player 7. You're playing with 7 other players.\nYou will be secretly told what role you are playing by moderator.\nYou need to reason others' role and avoid being identified by others.\nDo not pretend you are other players or the moderator.\nYou don't need to prepend your player name to your response, despite others may do it.\nAlways end your response with '<EOS>'.",
+      "backend": {
+        "backend_type":  "agent-chat",
+        "temperature": 0.7,
+        "max_tokens": 1000
+      }
+    },
+    {
+      "name": "Player 8",
+      "role_desc": "You are Player 8. You're playing with 7 other players.\nYou will be secretly told what role you are playing by moderator.\nYou need to reason others' role and avoid being identified by others.\nDo not pretend you are other players or the moderator.\nYou don't need to prepend your player name to your response, despite others may do it.\nAlways end your response with '<EOS>'.",
+      "backend": {
+        "backend_type":  "agent-chat",
+        "temperature": 0.7,
+        "max_tokens": 1000
+      }
+    }
+
+  ]
+}

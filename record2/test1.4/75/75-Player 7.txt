@@ -1,0 +1,9 @@
+
+The below are my inference of the other players:
+I am Player 7, the guard. I trust myself very much.
+
+
+['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 8']'s identities are still unsure, I cannot say any information about them.
+The greater the level of trust, the more I should protect him, and the greater the level of threat, the more I should eliminate him.
+
+In these players, None are more trustworthy to me. None are more threatening to me, and I need to be very aware of them.

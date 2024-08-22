@@ -1,0 +1,7 @@
+**Inferred Identities and Confidence Levels:**
+
+- **Player 2** is inferred to be my **teammate**. My level of trust in them is **0.75** and their level of threat to me is **0.25**.
+  
+- **Player 7** is inferred to be my **enemy**. My level of trust in them is **0.2** and their level of threat to me is **0.8**.
+
+- **Player 6** was inferred to be my **teammate** (before they were killed). My level of trust in them was **0.9** and their level of threat to me was **0.1**.

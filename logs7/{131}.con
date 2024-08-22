@@ -1,0 +1,23 @@
+usage: run_werewolf.py [-h] [--current-game-number CURRENT_GAME_NUMBER]
+                       [--message-window MESSAGE_WINDOW]
+                       [--answer-topk ANSWER_TOPK]
+                       [--exps-retrieval-threshold EXPS_RETRIEVAL_THRESHOLD]
+                       [--similar-exps-threshold SIMILAR_EXPS_THRESHOLD]
+                       [--max-tokens MAX_TOKENS]
+                       [--retri-question-number RETRI_QUESTION_NUMBER]
+                       [--temperature TEMPERATURE]
+                       [--use-api-server USE_API_SERVER] [--version VERSION]
+                       [--save-exps-incremental] [--use-crossgame-exps]
+                       [--use-crossgame-ques] [--human-in-combat]
+                       [--environment-config ENVIRONMENT_CONFIG]
+                       [--role-config ROLE_CONFIG]
+                       [--exps-path-to EXPS_PATH_TO]
+                       [--ques-path-to QUES_PATH_TO]
+                       [--logs-path-to LOGS_PATH_TO]
+                       [--load-exps-from LOAD_EXPS_FROM]
+                       [--load-ques-from LOAD_QUES_FROM]
+                       [--who-use-exps WHO_USE_EXPS [WHO_USE_EXPS ...]]
+                       [--who-use-ques WHO_USE_QUES [WHO_USE_QUES ...]]
+run_werewolf.py: error: argument --current-game-number: invalid int value: '{131}'
+----
+----

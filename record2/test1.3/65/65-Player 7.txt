@@ -1,0 +1,7 @@
+Player 1 is inferred to be my enemy. My level of trust in him is 0.4 and his level of threat to me is 0.6.  
+Player 2 is inferred to be my enemy. My level of trust in him is 0.3 and his level of threat to me is 0.7.  
+Player 4 is inferred to be my enemy. My level of trust in him is 0.35 and his level of threat to me is 0.65.  
+Player 5 is inferred to be my enemy. My level of trust in him is 0.4 and his level of threat to me is 0.6.  
+Player 6 is inferred to be my enemy. My level of trust in him is 0.5 and his level of threat to me is 0.5.  
+Player 8 is inferred to be my enemy. My level of trust in him is 0.45 and his level of threat to me is 0.55.  
+<EOS>

@@ -1,0 +1,17 @@
+The below are my inference of the other players:
+I am Player 1, the werewolf. I trust myself very much.
+Player 2's identity seems to be neutral. My level of trust in him is 0.486 and his level of threat to me is 0.514.
+
+Player 3 is inferred to be my enemy. My level of trust in him is 0.433 and his level of threat to me is 0.567.
+
+Player 4 is inferred to be my teammate. My level of trust in him is 0.583 and his level of threat to me is 0.417.
+
+Player 5 is inferred to be my enemy. My level of trust in him is 0.441 and his level of threat to me is 0.559.
+
+Player 6's identity seems to be neutral. My level of trust in him is 0.546 and his level of threat to me is 0.454.
+
+Player 7 is inferred to be my enemy. My level of trust in him is 0.419 and his level of threat to me is 0.581.
+
+Player 8 is inferred to be my enemy. My level of trust in him is 0.405 and his level of threat to me is 0.595.
+The greater the level of trust, the more I should protect him, and the greater the level of threat, the more I should eliminate him.
+In these players, ['Player 4'] are more trustworthy to me. ['Player 3', 'Player 7', 'Player 8'] are more threatening to me, and I need to be very aware of them.

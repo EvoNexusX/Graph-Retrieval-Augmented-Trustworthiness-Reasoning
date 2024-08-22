@@ -1,0 +1,4 @@
+Player 2 is inferred to be my teammate. My level of trust in him is high and his level of threat to me is low.
+Player 6 is inferred to be my enemy. My level of trust in him is low and his level of threat to me is high.
+Player 7 is inferred to be my teammate. My level of trust in him is high and his level of threat to me is low.
+Player 8 is inferred to be my teammate. My level of trust in him is high and his level of threat to me is low.

@@ -1,0 +1,6 @@
+
+The below are my inference of the other players:
+I am Player 1, the werewolf. I trust myself very much.
+Player 4 is inferred to be my enemy. His level of threat to me is 0.109.
+['Player 7', 'Player 8', 'Player 3', 'Player 6', 'Player 2', 'Player 5']'s identities are still unsure.The greater the level of trust, the more I should protect him, and the greater the level of threat, the more I should eliminate him.
+In these players, [] are more trustworthy to me. ['Player 4'] are more threatening to me, and I need to be very aware of them.

@@ -1,0 +1,8 @@
+Player 1 is inferred to be my teammate. My level of trust in him is 0.9.
+Player 2 is inferred to be me. My level of trust in myself is 1.0.
+Player 3 is inferred to be my teammate. My level of trust in him is 0.8.
+Player 4 is inferred to be my teammate. My level of trust in him is 0.9.
+Player 5 is inferred to be my teammate. My level of trust in him is 0.9.
+Player 6 is inferred to be my teammate. My level of trust in him is 0.9.
+Player 7 is inferred to be my teammate. My level of trust in him is 0.9.
+Player 8 is inferred to be my teammate. My level of trust in him is 0.9.

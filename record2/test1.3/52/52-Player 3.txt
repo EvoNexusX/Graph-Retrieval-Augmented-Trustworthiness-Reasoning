@@ -1,0 +1,17 @@
+The below are my inference of the other players:
+I am Player 3, the guard. I trust myself very much.
+Player 1 is inferred to be my enemy. My level of trust in him is 0.295 and his level of threat to me is 0.705.
+
+Player 2 is inferred to be my enemy. My level of trust in him is 0.352 and his level of threat to me is 0.648.
+
+Player 4's identity seems to be neutral. My level of trust in him is 0.5 and his level of threat to me is 0.5.
+
+Player 5's identity seems to be neutral. My level of trust in him is 0.5 and his level of threat to me is 0.5.
+
+Player 6 is inferred to be my enemy. My level of trust in him is 0.266 and his level of threat to me is 0.734.
+
+Player 7 is inferred to be my enemy. My level of trust in him is 0.386 and his level of threat to me is 0.614.
+
+Player 8 is inferred to be my enemy. My level of trust in him is 0.386 and his level of threat to me is 0.614.
+The greater the level of trust, the more I should protect him, and the greater the level of threat, the more I should eliminate him.
+In these players, [] are more trustworthy to me. ['Player 2', 'Player 1', 'Player 6'] are more threatening to me, and I need to be very aware of them.

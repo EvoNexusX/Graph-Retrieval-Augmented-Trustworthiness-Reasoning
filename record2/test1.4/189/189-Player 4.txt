@@ -1,0 +1,1 @@
+Player 4 is inferred to be my teammate. My level of trust in him is 0.8.

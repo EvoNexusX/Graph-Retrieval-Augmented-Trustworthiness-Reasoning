@@ -1,0 +1,8 @@
+Player 1 is inferred to be my teammate. My level of trust in him is 0.85 and his level of threat to me is 0.15.  
+Player 2 is inferred to be my teammate. My level of trust in her is 0.80 and her level of threat to me is 0.20.  
+Player 3 is inferred to be my teammate. My level of trust in him is 0.75 and his level of threat to me is 0.25.  
+Player 4 is inferred to be my teammate. My level of trust in him is 0.70 and his level of threat to me is 0.30.  
+Player 5 is inferred to be my enemy. My level of trust in him is 0.40 and his level of threat to me is 0.60.  
+Player 6 is inferred to be my enemy. My level of trust in him is 0.35 and his level of threat to me is 0.65.  
+Player 8 is inferred to be my enemy. My level of trust in him is 0.30 and his level of threat to me is 0.70.  
+<EOS>

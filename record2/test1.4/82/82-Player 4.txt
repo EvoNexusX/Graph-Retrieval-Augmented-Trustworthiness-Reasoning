@@ -1,0 +1,13 @@
+Based on the observed dialogue and voting patterns:
+
+- **Player 2** is inferred to be my enemy. My level of trust in them is 0.4 and their level of threat to me is 0.6. Player 2 was part of the voting group that targeted Player 7 and had a pattern of agreeing with others, which might indicate they are aligning with werewolves.
+
+- **Player 4** is me, the witch. My role is to decide which player to poison or save and to protect the village from werewolves and harm.
+
+- **Player 5** is inferred to be my enemy. My level of trust in them is 0.35 and their level of threat to me is 0.65. Player 5 supported the vote against Player 7, which may indicate a potential alliance with those targeting villagers.
+
+- **Player 8** is inferred to be my ally. My level of trust in them is 0.7 and their level of threat to me is 0.3. Player 8 led the vote against Player 7, which could be a strategy to eliminate a possible threat or to confuse the villagers.
+
+Given this analysis, the best course of action is to poison a player who is highly suspected of being a werewolf or causing significant confusion. Considering the high trust in Player 8 and the voting history, the decision will be made accordingly.
+
+I choose to poison Player 2. <EOS>

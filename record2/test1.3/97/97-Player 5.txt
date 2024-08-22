@@ -1,0 +1,9 @@
+Player 2 is inferred to be my teammate. My level of trust in him is 0.8 and his level of threat to me is 0.2.
+Player 3 is inferred to be my teammate. My level of trust in him is 0.7 and his level of threat to me is 0.3.
+Player 6 is inferred to be my enemy. My level of trust in him is 0.2 and his level of threat to me is 0.8.
+Player 7 is inferred to be my teammate. My level of trust in him is 0.6 and his level of threat to me is 0.4.
+Player 8 is inferred to be my enemy. My level of trust in him is 0.3 and his level of threat to me is 0.7. 
+<Player 1 and Player 4 are not mentioned as they were killed previously and are not part of the current inference.> 
+<Player 5 is not included in the inference as you are reflecting on other players' identities.> 
+<Player 2, 3, 6, 7, and 8 are included in the inference.> 
+<EOS>

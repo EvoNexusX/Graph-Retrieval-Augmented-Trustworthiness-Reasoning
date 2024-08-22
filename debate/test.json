@@ -1,0 +1,47 @@
+{
+  "name": "self-analysis in two parts",
+  "global_prompt": "",
+  "environment": {
+    "env_type": "conversation",
+    "parallel": false
+  },
+  "players": [
+    {
+      "name": "debater1",
+      "role_desc": "I am the postive sides of your role's inner thoughts in the WereWolf Game. I need to find the evidence good for you and try to answer the quesion abbout the game.",
+      "backend": {
+        "backend_type": "agent-chat",
+        "temperature": 0.7,
+        "max_tokens": 1000
+      }
+    },
+    {
+      "name": "debater2",
+      "role_desc": "I am the negative sides of your role's inner thoughts in the WereWolf Game. I need to find the evidence bad for you and try to answer the quesion about the game.",
+      "backend": {
+        "backend_type": "agent-chat",
+        "temperature": 0.7,
+        "max_tokens": 1000
+      }
+    },
+    {
+      "name": "judge",
+      "role_desc": "As a judge agent, my primary responsibility is to impartially evaluate the responses of other agents for consistency. Please ensure my judgments are objective, relying solely on the coherence and alignment of the provided answers",
+      "backend": {
+        "backend_type": "agent-chat",
+        "temperature": 0.7,
+        "max_tokens": 1000
+      }
+    },
+    {
+      "name": "summarizer",
+      "role_desc": "I am an intelligent summarizer agent, tasked with synthesizing the responses of other agents into a concise and comprehensive final answer. Your role is not to generate original responses, but to condense the information provided by other agents into a succinct summary.\n ",
+      "backend": {
+        "backend_type": "agent-chat",
+        "temperature": 0.7,
+        "max_tokens": 1000
+      }
+    }
+
+  ]
+}
