@@ -67,16 +67,12 @@ class AgentChat6(IntelligenceBackend):
         method = methods[conn_method]
         # method = "temp"
         if method == "openai":
-            # base_url = "https://api.xiaoai.plus/v1/"
-            base_url = "https://xa.blackbox.red/v1"
-            api_key = "sk-lfHDOEV9YpiZsS5SDc2fA0475f754eC0A6Ff72EdAc7f0aB5"
-
+            # Insert your base_url and api_key here.
+            base_url = None
+            api_key = None
         elif method == "llama":
             base_url = "http://localhost:11434/v1/"
             api_key = "ollama"
-        elif method == "temp":
-            api_key = "sk-TwdmLnOPrEuQVZa4Ea108fD69f1b4083Ae9410E0E559241f"
-            base_url = "https://new.apiapp.one/v1"
         else:
             # Insert your base_url and api_key here.
             base_url = None
